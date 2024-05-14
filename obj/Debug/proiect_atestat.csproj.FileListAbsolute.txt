@@ -1,0 +1,10 @@
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\bin\Debug\proiect_atestat.exe.config
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\bin\Debug\proiect_atestat.exe
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\bin\Debug\proiect_atestat.pdb
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.csproj.GenerateResource.cache
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.csproj.CoreCompileInputs.cache
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.exe
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.pdb
+C:\Users\dutem\source\repos\proiect_atestat\proiect_atestat\obj\Debug\proiect_atestat.Form2.resources
